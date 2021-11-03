@@ -1,0 +1,148 @@
+﻿body {
+	font-family: Montserrat, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-image:url(images/site/bg.jpg);
+	background-color:#eae8e7;
+}
+
+H1 {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-align:center;
+}
+.container {
+	text-align: center;
+} 
+
+td {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+th {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.bodystyle {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+ 	
+.small {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+
+.medium {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+
+.colorgray {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#999;
+}
+
+.big {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+.bigcolor {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color:#5d3887; 
+}
+
+.xbig {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+}
+
+.expanded {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 2px;
+}
+
+.justified {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align: justify;
+}
+.logo2 { background-image: url(images/site/logo2.jpg);
+}
+
+.menu1 { background-image: url(images/site/menu.jpg);
+}
+
+.usrDotted {
+  Border-Color: #451414;
+  Border-Style: Dotted;
+  Border-Width: 1px;
+  background-color:#c7b8b3;
+
+}
+
+a:link {
+  text-decoration: None;
+  color: #d73308;
+}
+
+a:visited {
+	text-decoration: None;
+	color: #d73308;
+}
+
+a:active {
+text-decoration: none;
+Color: #0756b7;
+}
+a:hover {
+ Text-Decoration: None;
+ Color: #0756b7;
+}
+.menu a {
+    color: #fff3d5; /* Цвет ссылки */
+	text-decoration:none;
+	font-size:17px;
+	text-shadow: 1px 1px 0px #000000;
+	}
+.vk a {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	color:#cdeaff;
+}
+.vk {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	color:#cdeaff;
+}	
+	.img2 {
+	width:400px;
+	height: 231px; /*РАЗМЕРЫ ВАШЕЙ КАРТИНКИ*/
+	position: relative;
+	border: 1px solid silver; /*При необходимости*/
+	Font-Size: 22px;
+	Color: #FFFFFF;
+	text-decoration:none;
+	text-shadow: 3px 0px 0px #F80606;
+}
+
+.img2 p {
+	width: 382px;
+	position: absolute;
+	right: 7px;
+	bottom: 63px;
+	height: 5px;
+	
+}
+  .leftimg {
+float:left; /* Выравнивание по левому краю */
+margin: 7px 7px 0px 0px; /* Отступы вокруг картинки */
+}
+.rightimg {
+float:right; /* Выравнивание по левому краю */
+margin: 0px 0px 0px 7px; /* Отступы вокруг картинки */
+}
